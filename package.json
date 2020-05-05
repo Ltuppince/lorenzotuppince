@@ -1,0 +1,19 @@
+{
+  "name": "reactportfolio1",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ltuppince/reactPortfolio1.git"
+  },
+  "author": "Lorenzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ltuppince/reactPortfolio1/issues"
+  },
+  "homepage": "https://github.com/Ltuppince/reactPortfolio1#readme"
+}
